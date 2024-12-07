@@ -175,8 +175,8 @@ font-style: italic;
 }
 
 .papa{
-   background-color:#e4fa00;
-  border: 10px solid #b926d9;
+     background-image: linear-gradient(#3ecc20, #27a4be);
+  border: 10px solid #01054b;
    text-align: center;
   font-size: 30px;
    sans-serif:Arial Narrow;
